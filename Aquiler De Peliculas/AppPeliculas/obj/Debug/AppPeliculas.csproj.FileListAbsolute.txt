@@ -1,0 +1,14 @@
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\bin\Debug\AppPeliculas.exe.config
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\bin\Debug\AppPeliculas.exe
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\bin\Debug\AppPeliculas.pdb
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.csproj.AssemblyReference.cache
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.FormLogin.resources
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.FormPeliculasAlquiladas.resources
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.FormRegistro.resources
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.FormTiendaPeliculas.resources
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.Properties.Resources.resources
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.csproj.GenerateResource.cache
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.exe
+C:\Users\rohu2\Downloads\C-Sharp-main\AppPeliculas\AppPeliculas\obj\Debug\AppPeliculas.pdb
